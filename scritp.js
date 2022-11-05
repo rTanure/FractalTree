@@ -5,8 +5,8 @@ const slider = document.querySelector("#slider")
 
 const lineColor = "rgba(256, 256, 256, 1)"
 const background = '#242424'
-const canvasSize = 400
-const reduction = 0.73
+const canvasSize = 500
+const reduction = 0.7
 
 var angle
 
